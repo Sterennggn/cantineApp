@@ -13,8 +13,6 @@ L'application utilise :
 
   Base de données : SQL Server
 
-🚀 Fonctionnalités :
-
   🔑 Authentification & Gestion des Utilisateurs
 
   Création de comptes (élèves, profs, admin).
