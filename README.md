@@ -8,6 +8,8 @@ L'application utilise :
   Frontend : HTML, CSS
 
   Backend : Php
+  
+  Framework : Laravel
 
   Base de données : SQL Server
 
