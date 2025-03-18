@@ -2,7 +2,8 @@
 
 📌 Description
 
-Cette application permet aux utilisateurs (élèves, professeurs, personnel cantine) de se connecter, consulter les menus disponibles par jour et effectuer des réservations de repas. L'application utilise :
+Cette application permet aux utilisateurs (élèves, professeurs, personnel cantine) de se connecter, consulter les menus disponibles par jour et effectuer des réservations de repas. 
+L'application utilise :
 
 Frontend : HTML, CSS
 
